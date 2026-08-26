@@ -1,0 +1,10 @@
+title: model245678
+x-stoplight:
+  id: rx8gbt1hituft
+type: object
+properties:
+  id:
+    type: string
+    x-stoplight:
+      id: jtbd6ml97tuic
+description: '345678'
